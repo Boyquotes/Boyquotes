@@ -27,8 +27,7 @@
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/truffle.png?sanitize=true&raw=true" alt="Truffle" width="40" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/openzeppelin.png?sanitize=true&raw=true" alt="OpenZeppelin" width="40" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/ligo.png?sanitize=true&raw=true" alt="Ligo" width="90" height="40"/> </a>
-    <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/liquidity.png?sanitize=true&raw=true" alt="Liquidity" width="90" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/moralis.jpeg?sanitize=true&raw=true" alt="Moralis" width="50" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/web3.png?sanitize=true&raw=true" alt="Web3" width="120" height="40"/> </a>
-
+    <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/liquidity.png?sanitize=true&raw=true" alt="Liquidity" width="90" height="40"/> </a>
 </p>
