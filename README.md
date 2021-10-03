@@ -20,19 +20,15 @@
 <p align="left">
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/solidity.png?sanitize=true&raw=true" alt="Solidity" width="40" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/ethereum.png?sanitize=true&raw=true" alt="Ethereum" width="40" height="40"/> </a>
-    
-    <a href="https://www.substrate.io/" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/polkadot.png?sanitize=true&raw=true" alt="Polkadot" width="50" height="45"/> </a>
+    <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/polkadot.png?sanitize=true&raw=true" alt="Polkadot" width="50" height="45"/> </a>
     <a href="https://www.substrate.io/" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/substrate.png?sanitize=true&raw=tru" alt="Substrate" width="40" height="40"/> </a>
-    
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/goLang.png?sanitize=true&raw=true" alt="GoLang" width="60" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/RUST.png?sanitize=true&raw=true" alt="Rust" width="40" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/truffle.png?sanitize=true&raw=true" alt="Truffle" width="40" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/openzeppelin.png?sanitize=true&raw=true" alt="OpenZeppelin" width="40" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/ligo.png?sanitize=true&raw=true" alt="Ligo" width="90" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/liquidity.png?sanitize=true&raw=true" alt="Liquidity" width="90" height="40"/> </a>
-
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/moralis.jpeg?sanitize=true&raw=true" alt="Moralis" width="50" height="40"/> </a>
-
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/web3.png?sanitize=true&raw=true" alt="Web3" width="120" height="40"/> </a>
 
 </p>
