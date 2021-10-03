@@ -2,7 +2,6 @@
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/js.png?sanitize=true&raw=true" alt="Javascript" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/ts.png?sanitize=true&raw=true" alt="Typescript" width="40" height="40"/> </a>
-    
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/nodejs.png?sanitize=true&raw=true" alt="Nodejs" width="60px" height="auto"/> </a>
     
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
