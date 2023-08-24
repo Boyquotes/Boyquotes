@@ -12,6 +12,8 @@
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/sf.png?sanitize=true&raw=true" alt="Symfony" width="40px" height="40px"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/linux.jpeg?sanitize=true&raw=true" alt="LINUX" width="40px" height="50px"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/bash.png?sanitize=true&raw=true" alt="BASH" width="100px" height="40px"/> </a>
+</p>
+
     ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
     ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -21,8 +23,6 @@
     ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
     ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
     ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-</p>
-
 
 
 <h3 align="left">Languages and Tools WEB 3 ( IN PROGRESS Q4. 2021 / Q1. 2022 ):</h3>
