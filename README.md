@@ -12,13 +12,27 @@
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/sf.png?sanitize=true&raw=true" alt="Symfony" width="40px" height="40px"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/linux.jpeg?sanitize=true&raw=true" alt="LINUX" width="40px" height="50px"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/bash.png?sanitize=true&raw=true" alt="BASH" width="100px" height="40px"/> </a>
+    ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+    ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+    ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+    ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+    ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+    ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+    ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+    ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 </p>
 
 
 
 <h3 align="left">Languages and Tools WEB 3 ( IN PROGRESS Q4. 2021 / Q1. 2022 ):</h3>
 <p align="left">
-    <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/solidity.png?sanitize=true&raw=true" alt="Solidity" width="40" height="40"/> </a>
+    ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
+    ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum)&nbsp;
+    ![Polkadot](https://img.shields.io/badge/-Polkadot-05122A?style=flat&logo=polkadot)&nbsp;
+
+    
+
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/ethereum.png?sanitize=true&raw=true" alt="Ethereum" width="40" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/polkadot.png?sanitize=true&raw=true" alt="Polkadot" width="50" height="45"/> </a>
     <a href="https://www.substrate.io/" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/substrate.png?sanitize=true&raw=tru" alt="Substrate" width="40" height="40"/> </a>
