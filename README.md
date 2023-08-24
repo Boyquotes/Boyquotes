@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Boyquotes&label=Profile%20views&color=0e75b6&style=flat" alt="Boyquotes" /> </p>
 <h3 align="left">Languages and Tools WEB 2 ( 2005 up to now ):</h3>
 <p align="left">
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/js.png?sanitize=true&raw=true" alt="Javascript" width="40" height="40"/> </a>
