@@ -57,4 +57,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Boyquotes&" alt="Boyquotes" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Boyquotes&label=Profile%20views&color=0e75b6&style=flat" alt="Boyquotes" /> </p>
-<p>https://github-readme-stats.vercel.app/api/top-langs/?username=StormLight14&theme=dark</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boyquotes" alt="Boyquotes" /></p>
