@@ -57,4 +57,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Boyquotes&label=Profile%20views&color=0e75b6&style=flat" alt="Boyquotes" /> </p>
 
-<p>Node.js - Web3.js - DApp - DEX - NFT marketplace - Truffle - HardHat - Foundry - Smart contracts - DAO - DeFi </p>
+<p>Node.js - Web3.js - DApp - DEX - NFT marketplace - Truffle - HardHat - Foundry - Smart contracts - DAO - DeFi - DATA ON-CHAIN</p>
