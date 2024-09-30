@@ -46,9 +46,9 @@
 <p align="center">
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/Lumberyard_Bistro.jpeg">
 </p> 
-<p align="center">
+<!-- <p align="center">
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/godot_spatial_gardener.gif">
-</p>
+</p> -->
 <p align="center">
 <img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/inventory-system-demos.png">
 </p> 
