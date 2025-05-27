@@ -43,17 +43,6 @@
 </p>
 
 <p align="left"> <a href="https://github.com/Boyquotes/awesome_Godot4">Listing of awesome projects made with GODOT 4</a></p>
-<p align="center">
-<img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/Lumberyard_Bistro.jpeg">
-</p> 
-<!-- <p align="center">
-<img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/godot_spatial_gardener.gif">
-</p> -->
-<p align="center">
-<img width=600 src="https://raw.githubusercontent.com/Boyquotes/awesome_Godot4/main/images/inventory-system-demos.png">
-</p> 
-                     
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Boyquotes" alt="Boyquotes" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Boyquotes&label=Profile%20views&color=0e75b6&style=flat" alt="Boyquotes" /> </p>
 
