@@ -26,7 +26,7 @@
 
 
 
-<h3 align="left">Languages and Tools WEB 3 ( IN PROGRESS 2021 / 2024 ):</h3>
+<h3 align="left">Languages and Tools WEB 3 ( IN PROGRESS 2021 / 2026 ):</h3>
 <p align="left">
 
 ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
