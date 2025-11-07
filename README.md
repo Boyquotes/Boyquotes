@@ -54,8 +54,7 @@
 ![OpenZeppelin](https://img.shields.io/badge/-OpenZeppelin-05122A?style=flat&logo=OpenZeppelin)&nbsp;
 ![Polygon](https://img.shields.io/badge/-Polygon-05122A?style=flat&logo=polygon)&nbsp;
 ![Solana](https://img.shields.io/badge/-Solana-05122A?style=flat&logo=solana)&nbsp;
-![Avax](https://img.shields.io/badge/-Avax-05122A?style=flat&logo=avax)&nbsp;
-![WEB3](https://img.shields.io/badge/-Web3-05122A?style=flat&logo=web3)&nbsp;
+
 </p>
 
 <p align="left"> <a href="https://github.com/Boyquotes/awesome_Godot4">Listing of awesome projects made with GODOT 4</a></p>
