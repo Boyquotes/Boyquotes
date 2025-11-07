@@ -60,6 +60,6 @@
 
 <p align="left"> <a href="https://github.com/Boyquotes/awesome_Godot4">Listing of awesome projects made with GODOT 4</a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Boyquotes&label=Profile%20views&color=0e75b6&style=flat" alt="Boyquotes" /> </p>
+<p>Node.js - Web3.js - DApp - DEX - NFT - HardHat - Foundry - Smart contracts - DAO - DeFi - Data On-Chain</p>
 
-<p>Node.js - Web3.js - DApp - DEX - NFT marketplace - Truffle - HardHat - Foundry - Smart contracts - DAO - DeFi - DATA ON-CHAIN</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Boyquotes&label=Profile%20views&color=0e75b6&style=flat" alt="Boyquotes" /> </p>
