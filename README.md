@@ -19,8 +19,10 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=61DAFB)
 ![NestJS](https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&labelColor=0D1117&textColor=E0234E)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=339933)
+![Next](https://img.shields.io/badge/-Next-0D1117?style=for-the-badge&logo=Next&labelColor=0D1117&textColor=61DAFB)
+![Nuxt](https://img.shields.io/badge/-Nuxt-0D1117?style=for-the-badge&logo=Nuxt&labelColor=0D1117&textColor=61DAFB)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=339933)
-![HTML](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&labelColor=0D1117&textColor=339933)
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&labelColor=0D1117&textColor=339933)
 
 
 ![VS Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&textColor=007ACC)
