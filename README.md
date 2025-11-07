@@ -31,6 +31,9 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-for-the-badge&logo=postgresql&labelColor=0D1117&textColor=4169E1)
+![SQLite](https://img.shields.io/badge/-sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117&textColor=4479A1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=MongoDB&labelColor=0D1117&textColor=4479A1)
+![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=Redis&labelColor=0D1117&textColor=4479A1)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-for-the-badge&logo=Python&labelColor=0D1117&textColor=4169E1)
 ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-for-the-badge&logo=Django&labelColor=0D1117&textColor=4169E1)
 ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-for-the-badge&logo=Flask&labelColor=0D1117&textColor=4169E1)
