@@ -30,8 +30,11 @@
 ![NPM](https://img.shields.io/badge/-NPM-0D1117?style=for-the-badge&logo=npm&labelColor=0D1117&textColor=CB3837)
 ![Yarn](https://img.shields.io/badge/-Yarn-0D1117?style=for-the-badge&logo=yarn&labelColor=0D1117&textColor=2C8EBB)
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=2496ED)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-for-the-badge&logo=postgresql&labelColor=0D1117&textColor=4169E1)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-for-the-badge&logo=Python&labelColor=0D1117&textColor=4169E1)
+![Django](https://img.shields.io/badge/-Django-0D1117?style=for-for-the-badge&logo=Django&labelColor=0D1117&textColor=4169E1)
 
 
 
