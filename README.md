@@ -54,8 +54,8 @@
 
 </p>
 
-<p align="left"> <a href="https://github.com/Boyquotes/awesome_Godot4">Listing of awesome projects made with GODOT 4</a></p>
-
 <p>Web3.js - Solana Kit - DApp - DEX - NFT - HardHat - Foundry - Smart contracts - DAO - DeFi - Data On-Chain</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Boyquotes&label=Profile%20views&color=0e75b6&style=flat" alt="Boyquotes" /> </p>
+
+<p align="left"> <a href="https://github.com/Boyquotes/awesome_Godot4">Listing of awesome projects made with GODOT 4</a></p>
