@@ -43,15 +43,14 @@
 <h3 align="left">Languages and Tools WEB 3 ( IN PROGRESS 2021 / 2026 ):</h3>
 <p align="left">
 
-![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
 ![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=flat&logo=ethereum)&nbsp;
+![Solana](https://img.shields.io/badge/-Solana-05122A?style=flat&logo=solana)&nbsp;
 ![Polkadot](https://img.shields.io/badge/-Polkadot-05122A?style=flat&logo=polkadot)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Truffle](https://img.shields.io/badge/-Truffle-05122A?style=flat&logo=truffle)&nbsp;
 ![OpenZeppelin](https://img.shields.io/badge/-OpenZeppelin-05122A?style=flat&logo=OpenZeppelin)&nbsp;
-![Polygon](https://img.shields.io/badge/-Polygon-05122A?style=flat&logo=polygon)&nbsp;
-![Solana](https://img.shields.io/badge/-Solana-05122A?style=flat&logo=solana)&nbsp;
 
 </p>
 
