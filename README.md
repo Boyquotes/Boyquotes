@@ -1,4 +1,8 @@
 <h3 align="left">Languages and Tools WEB 2 ( 2005 up to now ):</h3>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=boyquotes&data=followers,repositories,stars,commits&theme=nautilus)]()
+
+
 <p align="left">
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/js.png?sanitize=true&raw=true" alt="Javascript" width="40" height="40"/> </a>
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/ts.png?sanitize=true&raw=true" alt="Typescript" width="40" height="40"/> </a>
