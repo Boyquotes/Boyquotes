@@ -2,8 +2,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=boyquotes&data=followers,repositories,stars,commits&theme=nautilus)]()
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Boyquotes&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Boyquotes&theme=dark
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Boyquotes&theme=dark)
 
 <p align="left">
     <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/Boyquotes/Boyquotes/master/img/js.png?sanitize=true&raw=true" alt="Javascript" width="40" height="40"/> </a>
