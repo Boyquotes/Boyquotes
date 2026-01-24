@@ -30,12 +30,20 @@
       <br>MySQL
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=npm width="48" height="48" alt="NPM" />
-      <br>NPM
+        <img src="https://skillicons.dev/icons?i=rust width="48" height="48" alt="Rust" />
+      <br>RUST
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=docker width="48" height="48" alt="Docker" />
+      <br>RUST
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=godot width="48" height="48" alt="Godot" />
+      <br>RUST
     </td>
   </tr>
   <tr>
