@@ -182,3 +182,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Boyquotes&label=Profile%20views&color=0e75b6&style=flat" alt="Boyquotes" /> </p>
 
 <p align="left"> <a href="https://github.com/Boyquotes/awesome_Godot4">Listing of awesome projects made with GODOT 4</a></p>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="YuzeHao2023's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Boyquotes&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
